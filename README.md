@@ -20,7 +20,7 @@
 ---
 
 ## 📫 Reach me at
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sazid.abdullah.cse@gmail.com)## Hi there 👋
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sazid.abdullah.cse@gmail.com)
 
 <!--
 **sazid-abdullah/sazid-abdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
